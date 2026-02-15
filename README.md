@@ -23,12 +23,10 @@ Si no les llegan a funcionar, es posible que el problema es que tengan una versi
 En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integrante n" y escribir su nombre empezando por apellidos y su número de cuenta.
 
 + Integrante 1
-    - No. de Cuenta: 
+    - No. de Cuenta: 322247279 Olivares Martínez Andrea Danae
 + Integrante 2
-    - No. de Cuenta: 
-+ Integrante 3
-    - No. de Cuenta: 
+    - No. de Cuenta: 322216376 Ramírez Palacios Miguel
 
 ## Comentarios
 
-Recuerden que opcionalmente pueden agregar un comentario (ver los lineamientos de entrega). Si es el caso, borren esta línea y dejen su comentario.
+Modificamos la versión del archivo .cabal, para correr las pruebas.
